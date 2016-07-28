@@ -1,11 +1,11 @@
 #ifndef DSC_PC1550_H
 #define DSC_PC1550_H
 
-#if ARDUINO >= 100
+//#if ARDUINO >= 100
 #include <Arduino.h> // Arduino 1.0
-#else
-#include <Wprogram.h> // Arduino 0022
-#endif
+//#else
+//#include <Wprogram.h> // Arduino 0022
+//#endif
 
 #include <stdint.h>
 
